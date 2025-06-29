@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+de1293f6-7b1d-4870-ba98-a9082ea129ab,TucanoBR/Tucano-2b4-Instruct inference,Inference with multiple models in RecognaSumm,N/A,2025-01-10 10:31:21,2477.021914243698,0.1412260692709941,0.01596829042640203,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

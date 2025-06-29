@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+8123f959-fb26-4405-b80a-8ec6ccc45a4e,lucianosb/boto-9B-it inference,Inference with multiple models in RecognaSumm,N/A,2025-01-10 22:11:45,7190.617931365967,0.5146977848511128,0.05819636383533048,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+365d8cd8-4d8b-485b-8900-579654f17ae5,recogna-nlp/Bode-3.1-8B-Instruct-full inference,Inference with multiple models in Pirá,N/A,2025-01-07 13:30:55,546.3397243022919,0.04067047694530879,0.0045985701577291194,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+38fd7531-a372-46da-a2e0-eea590ab8d00,wandgibaut/periquito-3B inference,Inference with multiple models in Porsimples,N/A,2025-01-09 12:54:19,254.12947058677673,0.015770911699981658,0.0017832012150052262,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

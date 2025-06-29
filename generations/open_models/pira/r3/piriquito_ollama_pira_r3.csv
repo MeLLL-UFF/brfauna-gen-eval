@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+84e4fda5-bfc4-4350-92d2-fadca0f1adc2,wandgibaut/periquito-3B inference,Inference with multiple models in Pirá,N/A,2025-01-08 10:38:47,324.21250557899475,0.02111777350462894,0.0023877655323948895,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

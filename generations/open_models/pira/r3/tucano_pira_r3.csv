@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+f2b17d19-ffdd-436d-a2de-03425bbe6e13,TucanoBR/Tucano-2b4-Instruct inference,Inference with multiple models in Pirá,N/A,2025-01-08 09:55:36,320.7559599876404,0.017281365427087515,0.0019539867074753582,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

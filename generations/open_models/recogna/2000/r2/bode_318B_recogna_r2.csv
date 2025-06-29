@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+42749c35-6539-481c-b5e9-af6b5b9fe18d,recogna-nlp/Bode-3.1-8B-Instruct-full inference,Inference with multiple models in RecognaSumm,N/A,2025-01-10 11:12:54,4782.5015206336975,0.3488833452170764,0.03944789096034962,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

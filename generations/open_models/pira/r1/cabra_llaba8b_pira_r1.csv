@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+7d54fa3e-8704-45a4-ae5e-c02c80bc5e2c,botbot-ai/CabraLlama3-8b inference,Inference with multiple models in Pirá,N/A,2025-01-07 20:02:46,415.63463068008423,0.02943963506879431,0.003328710097593504,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

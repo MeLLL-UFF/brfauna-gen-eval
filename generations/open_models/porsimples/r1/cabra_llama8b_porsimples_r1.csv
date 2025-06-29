@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+7aa1b94e-0e84-4664-9c8f-1d9c7a075db5,botbot-ai/CabraLlama3-8b inference,Inference with multiple models in Porsimples,N/A,2025-01-09 10:38:57,925.1783006191254,0.06789165151560503,0.0076764411452179444,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

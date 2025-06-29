@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+855bc9bd-9cf1-4ab6-ba90-8b1de42c5e08,lucianosb/boto-9B-it inference,Inference with multiple models in Porsimples,N/A,2025-01-09 12:43:59,609.6071395874023,0.03627451311566473,0.004101522923475096,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

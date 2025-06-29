@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+e989d608-086c-406c-8e21-5e8fe9f54bf4,recogna-nlp/Bode-3.1-8B-Instruct-full inference,Inference with multiple models in Porsimples,N/A,2025-01-09 10:23:27,918.4554226398468,0.06686736232753715,0.007560625791012298,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0

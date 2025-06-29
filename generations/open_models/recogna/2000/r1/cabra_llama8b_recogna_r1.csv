@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+14f0f303-bd0d-4ef8-a263-373accaab800,botbot-ai/CabraLlama3-8b inference,Inference with multiple models in RecognaSumm,N/A,2025-01-09 16:31:53,4795.0586013793945,0.3525680115696795,0.03986451250017209,"Intel(R) Xeon(R) Silver 4410Y/2 device(s), TDP:150.0",NVIDIA L40S 1 device(s),Linux,BR/Rio de Janeiro,0
